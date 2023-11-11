@@ -1,7 +1,7 @@
 // KzqSynOPI1jMPyem;
 //xutao5661990;
 
-const db = "mongodb+srv://xutao5661990:KzqSynOPI1jMPyem@coursecrud.xslbayt.mongodb.net/";
+const db = "mongodb+srv://xutao5661990:<password>@coursecrud.xslbayt.mongodb.net/";
 const mongoose = require("mongoose");
 
 const connectDB = async ()=>{
